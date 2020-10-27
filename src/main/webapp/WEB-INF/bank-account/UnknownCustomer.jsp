@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>I don't know you~</h1>
+        <h1>我不認識你</h1>
     </body>
 </html>
